@@ -1,0 +1,14 @@
+/*
+Theme Name: theShop - Retina Responsive WordPress Shop Theme Child
+Theme URI: http://avathemes.co/WP/theShop
+Description: Are you looking for an elegant, powerful, and incredibly versatile WordPress theme to set up a website? Meet theShop, a stunning, fully customizable, Retina-ready web solution designed to take your online store, blog, or portfolio to the next level.
+Author: AVAThemes
+Author URI: http://themeforest.net/user/AVAThemes
+Template:       theshop
+Version:        1.0.0
+*/
+
+@import url("../theshop/style.css");
+
+/* =Theme customization starts here
+------------------------------------------------------- */
